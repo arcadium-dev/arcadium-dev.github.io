@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arcadium.dev</title>
@@ -6,7 +6,7 @@
     <description>Recent content on arcadium.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018-20, Ian Cahoon</copyright>
+    <copyright>&amp;copy; 2018-21, arcadium.dev</copyright>
     <lastBuildDate>Fri, 02 Mar 2018 14:52:49 +0000</lastBuildDate>
     
 	<atom:link href="https://arcadium.dev/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Fri, 02 Mar 2018 14:52:49 +0000</pubDate>
       
       <guid>https://arcadium.dev/posts/automation/</guid>
-      <description>Hire the people who will automate themselves out of a job, then just keep giving them jobs.  &amp;ndash; Jessie Frazelle</description>
+      <description>Hire the people who will automate themselves out of a job, then just keep giving them jobs.</description>
     </item>
     
   </channel>
